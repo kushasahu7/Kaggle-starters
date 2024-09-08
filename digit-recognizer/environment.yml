@@ -1,0 +1,14 @@
+name: KS-DR
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - tensorflow
+  - keras
+  - scikit-learn
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - tensorflow-metal
+  - tensorflow-macos
